@@ -1,1 +1,1 @@
-# Pima-Diabetes
+# Diabetes
